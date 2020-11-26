@@ -1,0 +1,33 @@
+html, body{
+   
+    background: linear-gradient(to bottom, #7927b2, #fb3182);
+    background-size: 400% 400%;
+
+    
+  }
+  p {
+    font-size: 55px;
+    font-weight: bold;
+    background: linear-gradient(to right, #362d3d, #b85a7f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    max-width: 350px;
+    text-transform: uppercase;
+    line-height: .77;
+  
+ 
+ 
+}
+
+#pic {
+  float: right;
+  clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+  opacity: 0.7;
+
+}
+#pic2 {
+  float: left;
+  clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
+  opacity: 0.7;
+}
+ 

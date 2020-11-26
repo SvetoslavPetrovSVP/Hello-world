@@ -1,0 +1,12 @@
+.section {
+    background: rgb(149, 149, 151);
+    display: inline-block;
+    font-size: 25px;
+    margin: 10px;
+    text-align: justify;
+    font-family: 'Verdana', cursive;
+    font-family: 'lobster', cursive;
+    border: solid #a97e85;
+    width: 530px;
+
+}

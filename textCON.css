@@ -1,0 +1,11 @@
+.contacts {
+    text-align: center;
+}
+.h1 {
+    font-family: 'Parisienne', cursive;
+    text-align: center;
+    margin: 100px;
+    letter-spacing: 7px;
+    color: rebeccapurple;
+    font-size: 48px;
+}
